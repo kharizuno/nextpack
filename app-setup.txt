@@ -1,0 +1,26 @@
+# Setup NPX
+npm install -g npx
+
+# Install NextJS
+npx create-next-app@latest 
+
+# Install Tools
+npm install path dotenv
+
+# Install Redux
+npm install redux react-redux redux-thunk redux-promise-middleware
+
+# Install Api
+npm install http https axios serialize
+
+# Install Validator
+npm install validator striptags stripchar cryptojs
+
+# Install Utilize Date
+npm install moment moment-timezone @date-io/moment
+
+# Install Custom CSS
+npm install sass styled-components
+
+# Install Render HTML
+npm install html-react-parser react-dotdotdot
