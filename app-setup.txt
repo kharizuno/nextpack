@@ -11,10 +11,10 @@ npm install path dotenv
 npm install redux react-redux redux-thunk redux-promise-middleware
 
 # Install Api
-npm install http https axios serialize
+npm install http https axios serialize-javascript local-storage
 
 # Install Validator
-npm install validator striptags stripchar cryptojs
+npm install validator striptags stripchar crypto-js
 
 # Install Utilize Date
 npm install moment moment-timezone @date-io/moment
