@@ -1,6 +1,6 @@
 ## Getting Started
 
-Those are nextjs setup for my project.
+Those are nextjs + redux setup for my project.
 You can find out the order install from file app-setup.txt
 
 ### `npm install`
